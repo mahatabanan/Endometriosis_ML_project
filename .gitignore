@@ -1,0 +1,5 @@
+# Python / Swap files
+*.swp
+__pycache__/
+*.pyc
+.env
